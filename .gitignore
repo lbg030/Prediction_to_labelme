@@ -1,0 +1,7 @@
+build
+dist
+__pycache__
+
+*.jit
+*.spec
+*.DS_Store
